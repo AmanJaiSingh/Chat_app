@@ -10,7 +10,6 @@ Welcome to ChatMagic, your portal to seamless and delightful communication! 🌐
 - [Getting Started](#getting-started)
 - [Contribution Guidelines](#contribution-guidelines)
 - [Deployment](#deployment)
-- [License](#license)
 
 ## Introduction
 
@@ -43,7 +42,7 @@ Follow these steps to start chatting on ChatMagic:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/chatmagic.git
+    git clone https://github.com/AmanJaiSingh/Chat_app.git
 Install dependencies:
 
 bash
@@ -71,7 +70,6 @@ We invite you to contribute to ChatMagic and make it even more enchanting! Check
 Deployment
 Deploy ChatMagic and spread the magic! Follow our deployment guide for a smooth deployment experience.
 
-License
-ChatMagic is licensed under the MIT License. Feel free to customize, share, and spread the magic!
+
 
 Happy Chatting! 🌟💬✨
